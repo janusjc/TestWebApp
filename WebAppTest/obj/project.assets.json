@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\NetCore\\WebAppTest\\WebAppTest.csproj",
+      "projectUniqueName": "D:\\Projects\\GIT\\TestWebApp\\WebAppTest\\WebAppTest.csproj",
       "projectName": "WebAppTest",
-      "projectPath": "D:\\Projects\\NetCore\\WebAppTest\\WebAppTest.csproj",
+      "projectPath": "D:\\Projects\\GIT\\TestWebApp\\WebAppTest\\WebAppTest.csproj",
       "packagesPath": "C:\\Users\\janus\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\NetCore\\WebAppTest\\obj\\",
+      "outputPath": "D:\\Projects\\GIT\\TestWebApp\\WebAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janus\\AppData\\Roaming\\NuGet\\NuGet.Config"

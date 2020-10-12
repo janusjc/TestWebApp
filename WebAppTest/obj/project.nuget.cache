@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o8BRqV0IXVx8it4VZWnYpJzPdi1SIsCEL0Lv8eNzJBUXiq7rvVX59ETZ6Bq8hi5do6yzWpcvnFNlupRJunQ0kg==",
+  "dgSpecHash": "OrF8ARBKfqVIunfFmvtdJOj38seR4cOqcTt/xtfF5lWMG3/FlD4Hw+HJdtnC+NggBPB9MM6H50XAHekKNsyjsQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\NetCore\\WebAppTest\\WebAppTest.csproj",
+  "projectFilePath": "D:\\Projects\\GIT\\TestWebApp\\WebAppTest\\WebAppTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
